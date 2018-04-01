@@ -46,4 +46,5 @@ public class UtilTest
 		assertEquals("empty string for params","Empty  String test",
 				Util.formatter("Empty {0} String test", "", "ERROR", 10, "INFO", 1));
 	}
+
 }
